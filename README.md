@@ -40,20 +40,6 @@ Hi there! I'm a **JavaScript Developer** passionate about building quality appli
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kush1nado&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=ff00ff&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1nado&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kush1nado&theme=radical&hide_border=true&background=0a0a0f&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 ![YOLO](https://img.shields.io/badge/YOLO-Achievement-00f0ff?style=for-the-badge)
@@ -86,15 +72,3 @@ Hi there! I'm a **JavaScript Developer** passionate about building quality appli
 
 - 🌐 GitHub: [@kush1nado](https://github.com/kush1nado)
 - 📧 Email: [Coming soon]
-
----
-
-<div align="center">
-
-### 💻 "Code is like humor. When you have to explain it, it's bad."
-
-⭐️ If you like my projects, don't forget to give them a star!
-
-![Visitor Count](https://profile-counter.glitch.me/kush1nado/count.svg)
-
-</div>

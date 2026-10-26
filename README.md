@@ -1,74 +1,63 @@
-<div align="center">
+# 👋 Hi, I'm kush1nado
 
-# 👋 Hi, I'm kush1nado!
+### **Full-Stack Engineer | AppSec & Offensive Security Enthusiast**
 
-### JavaScript Developer | Open Source Enthusiast
-
-[![GitHub followers](https://img.shields.io/github/followers/kush1nado?style=for-the-badge&logo=github&color=00f0ff)](https://github.com/kush1nado)
-[![GitHub stars](https://img.shields.io/github/stars/kush1nado?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/kush1nado)
-[![Profile Views](https://komarev.com/ghpvc/?username=kush1nado&color=00ff41&style=for-the-badge)](https://github.com/kush1nado)
-
-</div>
+<p align="left">
+  <img src="https://shields.io" alt="GitHub followers">
+  <img src="https://shields.io" alt="GitHub stars">
+  <img src="https://komarev.com" alt="Profile Views">
+</p>
 
 ---
 
-## 🚀 About Me
+## ⚡ Quick Scan
 
-Hi there! I'm a **JavaScript Developer** passionate about building quality applications and libraries. Working at **2GIS** and actively growing in web development.
+I'm a **Full-Stack Developer** currently pivoting my tech stack toward **Cybersecurity, Application Security (AppSec), and Penetration Testing**. 
 
-- 🔭 Currently working on **TypeScript** and **React** projects
-- 🌱 Learning new technologies and best practices
-- 👯 Open to collaborating on open source projects
-- 💬 Happy to help with JavaScript/TypeScript questions
-- ⚡ Interested in performance and code optimization
+With a strong background in building complete web architectures, I look at applications differently — not just how to make them work, but how they can be broken, bypassed, and secured.
 
----
-
-## 🛠️ Technologies & Tools
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* **Current Mission:** Transitioning from full-stack development to offensive security and vulnerability research.
+* **Core Advantage:** I understand the entire lifecycle of a request — from front-end state management to back-end logic and database queries. This makes reading and breaking code second nature.
 
 ---
 
-## 🏆 Achievements
+## 🔭 Active Research & Operations
 
-![YOLO](https://img.shields.io/badge/YOLO-Achievement-00f0ff?style=for-the-badge)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Achievement-ff00ff?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/Pull_Shark-x2-00ff41?style=for-the-badge)
+* 🛡️ **Learning:** Advanced Web Security (PortSwigger Academy), Network Pentesting, and OWASP Top 10 mitigation.
+* 🛠️ **Practicing:** Bug Bounty hunting & Hack The Box environments.
+* ⚙️ **Main Stack:** TypeScript, React, Node.js, and specialized security tools (Burp Suite, Nmap).
+* 💬 **Ask me about:** JavaScript/TypeScript internals, performance optimization, or how full-stack knowledge translates into hacking logic.
+
+---
+
+## 🛠️ Cyber Deck (Technologies & Tools)
+
+### **Development & Infrastructure**
+`JavaScript` `TypeScript` `React` `Node.js` `HTML5/CSS3` `Git/GitHub` `Docker`
+
+### **Security & Offensive Tools**
+`Burp Suite` `Nmap` `Linux Terminal` `Web Vulnerability Analysis (SQLi, XSS, SSRF, IDOR)`
 
 ---
 
 ## 📦 Featured Projects
 
-### [rellx](https://github.com/kush1nado/rellx)
-⚡ Universal State Manager - ultra-fast state management library
+### ⚡ [rellx](https://github.com)
+*Universal State Manager* — Ultra-fast, lightweight state management library built for performance-critical applications.
 
-### [about_me](https://github.com/kush1nado/about_me)
-💼 Portfolio project
+### 💼 [about_me](https://github.com)
+*Portfolio Project* — Personal sandbox and operational dashboard.
 
 ---
 
 ## 📈 Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kush1nado&theme=redical&hide_border=true&bg_color=0a0a0f&color=00f0ff&line=ff00ff&point=00ff41)
-
-</div>
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Activity Graph">
+</p>
 
 ---
 
 ## 📫 Get in Touch
 
-- 🌐 GitHub: [@kush1nado](https://github.com/kush1nado)
-- 📧 Email: [Coming soon]
+* **GitHub:** [@kush1nado](https://github.com)
+* **Status:** Open for security collaborations, code reviews, and deep architectural discussions.
